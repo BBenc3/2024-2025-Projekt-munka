@@ -17,6 +17,9 @@ Tantargy:
 Id
 Megnevezes (tantargy neve)
 Szaktanar azonositoja
+Csoport
+Osztály
+Szaktanár
 
 Diák
 Id
